@@ -1,0 +1,25 @@
+2020-02-15/15:57:48		Missing Values Validation Started!!
+2020-02-15/15:59:06		Missing Values Validation Started!!
+2020-02-15/15:59:28		Missing Values Validation Started!!
+2020-02-15/18:55:51		Missing Values Validation Started!!
+2020-02-15/18:55:51		Invalid Column Length for the file!! File moved to Bad Raw Folder :: visibility_08012018_120065.csv
+2020-04-17/20:22:58		Missing Values Validation Started!!
+2020-04-17/20:22:58		Invalid Column Length for the file!! File moved to Bad Raw Folder :: visibility_08012018_120065.csv
+2021-05-23/06:17:17		Missing Values Validation Started!!
+2021-05-23/06:17:18		Invalid Column Length for the file!! File moved to Bad Raw Folder :: visibility_08012018_120065.csv
+2021-05-23/07:28:27		Missing Values Validation Started!!
+2021-05-23/07:28:28		Invalid Column Length for the file!! File moved to Bad Raw Folder :: visibility_08012018_120065.csv
+2021-05-23/07:53:58		Missing Values Validation Started!!
+2021-05-23/07:53:59		Invalid Column Length for the file!! File moved to Bad Raw Folder :: visibility_08012018_120065.csv
+2021-05-24/02:05:59		Missing Values Validation Started!!
+2021-05-24/02:06:00		Invalid Column Length for the file!! File moved to Bad Raw Folder :: visibility_08012018_120065.csv
+2021-05-24/11:30:58		Missing Values Validation Started!!
+2021-05-24/11:30:58		Invalid Column Length for the file!! File moved to Bad Raw Folder :: visibility_08012018_120065.csv
+2021-05-24/12:12:07		Missing Values Validation Started!!
+2021-05-24/12:12:07		Invalid Column Length for the file!! File moved to Bad Raw Folder :: visibility_08012018_120065.csv
+2021-05-24/12:38:15		Missing Values Validation Started!!
+2021-05-24/12:38:16		Invalid Column Length for the file!! File moved to Bad Raw Folder :: visibility_08012018_120065.csv
+2021-05-24/22:25:11		Missing Values Validation Started!!
+2021-05-24/22:25:12		Invalid Column Length for the file!! File moved to Bad Raw Folder :: visibility_08012018_120065.csv
+2021-05-24/22:37:20		Missing Values Validation Started!!
+2021-05-24/22:37:20		Invalid Column Length for the file!! File moved to Bad Raw Folder :: visibility_08012018_120065.csv
