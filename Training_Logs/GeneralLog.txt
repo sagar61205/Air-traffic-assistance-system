@@ -1,0 +1,26 @@
+2020-02-14/20:54:02		GoodRaw directory deleted successfully!!!
+2020-02-14/20:54:02		Bad files moved to archive
+2020-02-14/20:54:02		Bad Raw Data Folder Deleted successfully!!
+2020-02-15/17:26:10		GoodRaw directory deleted successfully!!!
+2020-02-15/17:26:10		Bad files moved to archive
+2020-02-15/17:26:10		Bad Raw Data Folder Deleted successfully!!
+2021-06-09/09:59:17		BadRaw directory deleted before starting validation!!!
+2021-06-09/09:59:17		GoodRaw directory deleted successfully!!!
+2021-06-09/09:59:21		GoodRaw directory deleted successfully!!!
+2021-06-09/09:59:21		Bad files moved to archive
+2021-06-09/09:59:21		Bad Raw Data Folder Deleted successfully!!
+2021-06-09/10:04:34		GoodRaw directory deleted successfully!!!
+2021-06-09/10:04:35		Bad files moved to archive
+2021-06-09/10:04:35		Bad Raw Data Folder Deleted successfully!!
+2021-06-09/10:08:42		GoodRaw directory deleted successfully!!!
+2021-06-09/10:08:42		Bad files moved to archive
+2021-06-09/10:08:42		Bad Raw Data Folder Deleted successfully!!
+2021-06-09/14:33:45		BadRaw directory deleted before starting validation!!!
+2021-06-09/14:33:46		Error while Deleting Directory : [WinError 32] The process cannot access the file because it is being used by another process: 'Training_Raw_files_validated/Good_Raw/visibility_08012017_120019.csv'
+2021-06-09/14:36:41		GoodRaw directory deleted successfully!!!
+2021-06-09/20:51:37		GoodRaw directory deleted successfully!!!
+2021-06-09/20:51:38		Bad files moved to archive
+2021-06-09/20:51:38		Bad Raw Data Folder Deleted successfully!!
+2021-06-09/21:30:13		GoodRaw directory deleted successfully!!!
+2021-06-09/21:30:13		Bad files moved to archive
+2021-06-09/21:30:13		Bad Raw Data Folder Deleted successfully!!
