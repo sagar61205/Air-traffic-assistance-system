@@ -43,7 +43,7 @@ You can access it here:
 Note: The website may take a minute to load sometimes, as the server may be in hibernate state.
 How to use?
 Value-based-prediction ==> enter the corresponding values and it will fetch the number of calories burnt.
-File-based-prediction  ==> Click in 'default file prediction' to see the prediction on the already trained model OR Enter an absolute file path and clixk on 'Custome file predict'.
+File-based-prediction  ==> Click in 'default file prediction' to see the prediction on the already trained model OR Enter an absolute file path and clixk on 'Custom file predict'.
 
 
 
