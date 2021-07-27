@@ -27,7 +27,7 @@ def home():
 def batch_predictions():
     return render_template('batch_prediction.html')
 
-visibility_model_path = 'models/XGBoost2/xgboost2.sav'
+visibility_model_path = 'xgboost2.sav'
 visibility_model = pickle.load(
     open(visibility_model_path, 'rb'))
 
@@ -127,6 +127,3 @@ def trainRouteClient():
 
         return Response("Error Occurred! %s" % e)
     return Response("Training successfull!!")
-
-if __name__ == "__main__":
-    app.run(debug=True)
