@@ -2,11 +2,11 @@
 A simple ML based website which calculates calculates calories burnt by weighing in various parameters such as DryBulb temperature, Wind speed, Relative humidity etc.
 
 ## Application interface screenshot:
-![Screenshot 2021-07-05 201606](https://user-images.githubusercontent.com/5305547/127722982-f7c61fb3-449c-493d-af19-bc2e2443f6ee.png)
+![Screenshot 2021-07-05 201522](https://user-images.githubusercontent.com/5305547/127722993-50f5e6e6-27fc-40c4-adab-cfdd6c43d8ea.png)
 
 
 ## Application screenshot showing what the application does:
-![Screenshot 2021-07-05 201606](https://user-images.githubusercontent.com/5305547/127047602-7abae605-bce5-40bd-8fcd-2b0e7adf332a.png)
+![Screenshot 2021-07-05 201606](https://user-images.githubusercontent.com/5305547/127722982-f7c61fb3-449c-493d-af19-bc2e2443f6ee.png)
 
 
 # Features:
