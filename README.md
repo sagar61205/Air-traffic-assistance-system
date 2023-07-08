@@ -1,5 +1,5 @@
 # Air traffic assistance system
-A simple ML based website which calculates calculates calories burnt by weighing in various parameters such as DryBulb temperature, Wind speed, Relative humidity etc.
+A simple ML based website which calculates visibility of the airports weighing in various parameters such as DryBulb temperature, Wind speed, Relative humidity etc.
 
 ## Application interface screenshot:
 ![Screenshot 2021-07-05 201522](https://user-images.githubusercontent.com/5305547/127722993-50f5e6e6-27fc-40c4-adab-cfdd6c43d8ea.png)
